@@ -175,7 +175,7 @@ exports.run = {
 │⭔  ${isPrefix}runtime
 ╰───────────────❏
 
-© Powered by Faruqofc`
+© Powered by Dani Maker`
       client.sendMessageModify(m.chat, captions, m, {
                title: '𝑲𝑨𝑵𝑵𝑨 𝑽 2.6.4',
                largeThumb: true,
